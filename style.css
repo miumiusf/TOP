@@ -1,0 +1,71 @@
+html { 
+    font-size: 20 px;
+}
+
+* {
+    font-family: Franklin, Helvetica, sans-serif;
+    color: #4b4949;
+}
+
+
+#navigation a { display: block;
+                font-weight: normal;
+}
+
+#topnav-left a {display: block; 
+                float: left; 
+                text-decoration: none; 
+                margin: 10px;
+}
+
+#topnav-right a {display: block; 
+                 float: right;
+                 text-decoration: none;
+                 margin: 10px;
+                }
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#main{
+    display: block;
+    margin: auto;
+    padding: 10px; 
+    text-align: center;
+    padding-top: 180px;
+}
+
+.centerlogo {
+    display: center;
+    margin-left: center;
+    margin-right: center;
+    width: auto;
+}
+
+#search-box {
+    min-width: 38%;
+}
+
+#gs-button #ifl-button {
+    width: 20%;
+    font-size: 2em;
+}
+
+
+foot {
+    position: fixed;
+    bottom: 0px;
+    width: 100%;
+    line-height: 20px; 
+    background: #f2f2f2;
+    color: grey;
+}
+
+.bttm-pg-l{
+    float: left;
+}
+
+.bttm-pg-r{
+    float: right;
+}
